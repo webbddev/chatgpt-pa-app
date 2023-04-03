@@ -16,7 +16,7 @@ function App() {
   const [typing, setTyping] = useState(false);
   const [messages, setMessages] = useState([
     {
-      message: 'Hi, I am Nik, your Personal guru',
+      message: 'Hi, I am Nik, your Personal Smarta@@',
       sender: 'ChatGPT',
     },
   ]);
